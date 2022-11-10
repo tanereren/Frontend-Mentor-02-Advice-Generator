@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://tanereren.github.io/Frontend-Mentor-02-Advice-Generator/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-design-fetch-api-method-flexbox-gZCMvpTbnr)
+- Live Site URL: [Live Site (https://tanereren.github.io/Frontend-Mentor-02-Advice-Generator/)
 
 ## My process
 
