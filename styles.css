@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap");
+
+:root {
+  --primary-dark: hsl(218, 23%, 16%);
+  --primary-light: hsl(150, 100%, 66%);
+
+  --neutral-light: hsl(217, 19%, 38%);
+  --neutral: hsl(193, 38%, 86%);
+  --neutral-dark: hsl(217, 19%, 24%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  font: inherit;
+  font-family: "Manrope", sans-serif;
+  line-height: 1.6;
+}
+
+img,
+picture,
+svg {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.125;
+}
+
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+main {
+  background-color: var(--primary-dark);
+}
+
+.container {
+  width: 85%;
+  height: 100vh;
+
+  margin: 0 auto;
+  max-width: 1180px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.advice-div {
+  position: relative;
+  width: 525px;
+  height: 325px;
+  border-radius: 15px;
+
+  background-color: var(--neutral-dark);
+  color: var(--neutral);
+
+  text-align: center;
+  justify-content: space-around;
+
+  padding: 2rem 2rem;
+}
+
+.advice {
+  font-size: 1.4rem;
+}
+
+.adviceNum {
+  color: var(--primary-light);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 0.75rem;
+}
+
+.advice-div picture {
+  padding-bottom: 2.5rem;
+}
+
+.api-button {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+
+  position: absolute;
+  bottom: -10%;
+
+  background-color: var(--primary-light);
+  font-size: 5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.api-button:hover {
+  box-shadow: 0 0 15px 10px rgba(82, 255, 168, 0.4);
+}
+
+.api-button img {
+  width: 25px;
+  height: 25px;
+}
