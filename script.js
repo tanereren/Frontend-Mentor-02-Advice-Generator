@@ -15,7 +15,7 @@ window.addEventListener("load", () => {
         let output2 = "";
 
         output += `<p>"${data.slip.advice}"</p>`;
-        output2 += `<p>Advice #${data.slip.id}</p>`;
+        output2 += `<h1>Advice #${data.slip.id}</h1>`;
 
         adviceDiv.innerHTML = output;
         adviceNum.innerHTML = output2;
