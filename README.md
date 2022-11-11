@@ -40,8 +40,10 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project was great to practice using the fetch method for API calls as well as creating HTML elements straight from the javascript document.
+I focused on the project using a mobile-first approach although the design was simple enough to not require much effort to make it responsive.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I'd like to incorporate different APIs in future projects as well as create more complex designs. 
+These simple projects are helping me get acquainted with frontendmentor, which seems to be an excellent resource for practicing and improving my skills.
