@@ -40,10 +40,10 @@ Users should be able to:
 
 ### What I learned
 
-This project was great to practice using the fetch method for API calls as well as creating HTML elements straight from the javascript document.
-I focused on the project using a mobile-first approach although the design was simple enough to not require much effort to make it responsive.
+- This project was great to practice using the fetch method for API calls as well as creating HTML elements dynamically using Javascript.
+- I focused on the project using a mobile-first approach although the design was simple enough to not require much effort to make it responsive.
 
 ### Continued development
 
-I'd like to incorporate different APIs in future projects as well as create more complex designs. 
-These simple projects are helping me get acquainted with frontendmentor, which seems to be an excellent resource for practicing and improving my skills.
+- I'd like to incorporate different APIs in future projects as well as create more complex designs. 
+- These simple projects are helping me get acquainted with frontendmentor, which seems to be an excellent resource for practicing and improving my skills.
